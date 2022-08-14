@@ -1,4 +1,4 @@
-# ENGR102 Final Project: The Fast Game Library (Python 3.10+ Required)
+# Fast Game Library (Python 3.10+ Required)
 This repository holds all versions of my final project in ENGR-102 (intro Python course). **Check out the manual for more info.**
 
 ### Purpose:
