@@ -1,5 +1,5 @@
 # Fast Game Library (Python 3.10+ Required)
-This repository holds all versions of my final project in ENGR-102 (intro Python course). **Check out the manual for more info.**
+This repository holds the final version of my final project in ENGR-102 (intro Python course) All versions can be found on my personal account @FOOincognita. **Check out the manual for more info.**
 
 ### Purpose:
 **This is a database style library I wrote from scratch which stores 'games' which have 4 string attributes, & stores them within a custom written hashtable, which uses linked lists for collisions. All but 75 lines within the whole project were written by me.**
